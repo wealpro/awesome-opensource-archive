@@ -1,6 +1,6 @@
 # Awesome Opensource Archive · 开源数字档案
 
-[![收录项目](https://img.shields.io/badge/%E6%94%B6%E5%BD%95%E9%A1%B9%E7%9B%AE-1900+-brightgreen)](https://www.blesspro.cn)
+[![收录项目](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.blesspro.cn%2Fstats.json&query=%24.total&label=%E6%94%B6%E5%BD%95%E9%A1%B9%E7%9B%AE&suffix=%20%2B&color=brightgreen)](https://www.blesspro.cn)
 [![分类](https://img.shields.io/badge/%E5%88%86%E7%B1%BB-12-blue)](https://www.blesspro.cn/opensource/)
 [![全部开源](https://img.shields.io/badge/%E5%85%A8%E9%83%A8%E5%BC%80%E6%BA%90-OSI%E8%AE%A4%E5%8F%AF-orange)](https://www.blesspro.cn)
 
