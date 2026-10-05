@@ -5,6 +5,8 @@
 [![全部开源](https://img.shields.io/badge/%E5%85%A8%E9%83%A8%E5%BC%80%E6%BA%90-OSI%E8%AE%A4%E5%8F%AF-orange)](https://www.blesspro.cn)
 
 精选 **1900+** 个优质开源项目，覆盖 AI、游戏、效率工具、媒体创作等 12 大分类。
+
+> ⚡ **GitHub 打不开 / clone 太慢 / 不想配环境？** 1900 个项目已全部打包成 zip（含中文说明），**网盘一键转存、满速下载** → [BlessPro 数字档案](https://www.blesspro.cn)
 本仓库列出各分类最具代表性的项目；**完整源码包（61GB+，含仓库信息与许可证）可在 [BlessPro 数字档案](https://www.blesspro.cn) 免费转存**，无需 clone、开箱即用。
 
 ## 📚 分类导航
@@ -35,7 +37,9 @@
 
 ## 📮 获取完整档案
 
-👉 **[https://www.blesspro.cn](https://www.blesspro.cn)** — 1900 个项目完整清单与网盘转存入口
+本仓库每个分类只展示 TOP50 代表项目；**完整 1900 个清单 + 打包转存**都在官网：
+
+👉 **[https://www.blesspro.cn](https://www.blesspro.cn)** — 按分类一键转存整个文件夹，10 秒到手
 
 ## 🤝 贡献
 
