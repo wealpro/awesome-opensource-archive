@@ -9,6 +9,10 @@
 > ⚡ **GitHub 打不开 / clone 太慢 / 不想配环境？** 1900 个项目已全部打包成 zip（含中文说明），**网盘一键转存、满速下载** → [BlessPro 数字档案](https://www.blesspro.cn)
 本仓库列出各分类最具代表性的项目；**完整源码包（61GB+，含仓库信息与许可证）可在 [BlessPro 数字档案](https://www.blesspro.cn) 免费转存**，无需 clone、开箱即用。
 
+## 🪞 国内镜像
+
+GitHub 访问慢？本仓库已同步至 Gitee：[gitee.com/yinanpingy/awesome-opensource-archive](https://gitee.com/yinanpingy/awesome-opensource-archive)
+
 ## 📚 分类导航
 
 > 📌 档案持续收录更新中，下表为 2026-10 数据快照；**最新项目数量以 [blesspro.cn](https://www.blesspro.cn) 实时目录为准**。
